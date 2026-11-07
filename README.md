@@ -47,6 +47,4 @@ python3 pwnsafe.py generate -l 24     # générer un mot de passe de 24 caractè
 - [ ] Analyse d'un fichier d'export de gestionnaire de mots de passe (en local)
 - [ ] Tests unitaires avec `pytest`
 
-## 📄 Licence
 
-MIT
